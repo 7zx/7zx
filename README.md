@@ -1,8 +1,8 @@
-<h1 align="center">sosa</h1>
-<p align="center"><a href="https://sosaghostie.me/">𝘴𝘰𝘳𝘳𝘰𝘸</a></p>
-<a href="https://github.com/sosaghostie">
+<h1 align="center">nuvem</h1>
+<p align="center"><a href="https://nuvem.ml/">My Website</a></p>
+<a href="https://github.com/7zx">
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=sosaghostie&color=blueviolet" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=nuvem&color=blueviolet" alt="Profile Views">
   </p>
 </a>
 
