@@ -9,7 +9,7 @@ Hola, amigos <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://gith
 </a>
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/774842100336295946.png" alt="Discord Banner 4"/>
+  <img src="https://discord.c99.nl/widget/theme-1/822863528641167391.png" alt="Discord Banner 4"/>
 
   <br />
   <br />
