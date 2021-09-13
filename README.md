@@ -14,3 +14,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7zx&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+https://discord.c99.nl/widget/theme-1/878045426568273960.png
+  
