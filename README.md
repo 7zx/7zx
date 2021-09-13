@@ -1,4 +1,4 @@
-<h1 align="center">nuvem</h1>
+<h1 align="center">7zx aka nuvem</h1>
 
 <p align="center"><a href="https://nuvem.art/">My Website</a></p>
 <a href="https://github.com/7zx">
