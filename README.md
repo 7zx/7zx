@@ -1,6 +1,6 @@
-<h1 align="center">7zx aka nuvem</h1>
+<h1 align="center">7zx</h1>
 
-<p align="center"><a href="https://nuvem.art/">My Website</a></p>
+<p align="center"><a href="https://nuvem.art/">My Personal Website</a></p>
 <a href="https://github.com/7zx">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=nuvem&color=blueviolet" alt="Profile Views">
