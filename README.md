@@ -1,13 +1,3 @@
-<h1 align="center">7zx</h1>
-
-<a href="https://github.com/7zx">
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=nuvem&color=blueviolet" alt="Profile Views">
-  </p>
-</a>
-
-<h1 align="center"> <img src="https://discord.c99.nl/widget/theme-1/878045426568273960.png" width="500px"> </h1>
-
 <div>
   <a href="https://github.com/7zx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=7zx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
